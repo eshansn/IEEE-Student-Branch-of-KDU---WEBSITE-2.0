@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ieee.kdu.ac.lk/sitemap.xml
